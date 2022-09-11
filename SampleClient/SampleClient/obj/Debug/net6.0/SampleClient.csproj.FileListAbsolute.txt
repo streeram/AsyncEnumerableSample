@@ -1,0 +1,15 @@
+/Users/sriramnarayanan/Dev/API/SampleClient/SampleClient/obj/Debug/net6.0/SampleClient.csproj.AssemblyReference.cache
+/Users/sriramnarayanan/Dev/API/SampleClient/SampleClient/obj/Debug/net6.0/SampleClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sriramnarayanan/Dev/API/SampleClient/SampleClient/obj/Debug/net6.0/SampleClient.AssemblyInfoInputs.cache
+/Users/sriramnarayanan/Dev/API/SampleClient/SampleClient/obj/Debug/net6.0/SampleClient.AssemblyInfo.cs
+/Users/sriramnarayanan/Dev/API/SampleClient/SampleClient/obj/Debug/net6.0/SampleClient.csproj.CoreCompileInputs.cache
+/Users/sriramnarayanan/Dev/API/SampleClient/SampleClient/bin/Debug/net6.0/SampleClient
+/Users/sriramnarayanan/Dev/API/SampleClient/SampleClient/bin/Debug/net6.0/SampleClient.deps.json
+/Users/sriramnarayanan/Dev/API/SampleClient/SampleClient/bin/Debug/net6.0/SampleClient.runtimeconfig.json
+/Users/sriramnarayanan/Dev/API/SampleClient/SampleClient/bin/Debug/net6.0/SampleClient.dll
+/Users/sriramnarayanan/Dev/API/SampleClient/SampleClient/bin/Debug/net6.0/SampleClient.pdb
+/Users/sriramnarayanan/Dev/API/SampleClient/SampleClient/obj/Debug/net6.0/SampleClient.dll
+/Users/sriramnarayanan/Dev/API/SampleClient/SampleClient/obj/Debug/net6.0/refint/SampleClient.dll
+/Users/sriramnarayanan/Dev/API/SampleClient/SampleClient/obj/Debug/net6.0/SampleClient.pdb
+/Users/sriramnarayanan/Dev/API/SampleClient/SampleClient/obj/Debug/net6.0/SampleClient.genruntimeconfig.cache
+/Users/sriramnarayanan/Dev/API/SampleClient/SampleClient/obj/Debug/net6.0/ref/SampleClient.dll
