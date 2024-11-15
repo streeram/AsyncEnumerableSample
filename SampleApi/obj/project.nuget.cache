@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Q+9bbZ8ABHzm3rgsOOwcZyiW9cykc3hA70ydMzeq2/DvbC5cw6m7ygdOONZjaV+Tzxq+p7U3lJBTCtg20QFjiw==",
+  "dgSpecHash": "2R4mn+6wQhE=",
   "success": true,
-  "projectFilePath": "/Users/sriramnarayanan/Dev/API/SampleApi/SampleApi.csproj",
+  "projectFilePath": "/Users/sriramnarayanan/Dev/AsyncEnumerableSample/SampleApi/SampleApi.csproj",
   "expectedPackageFiles": [
-    "/Users/sriramnarayanan/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "/Users/sriramnarayanan/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
-    "/Users/sriramnarayanan/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "/Users/sriramnarayanan/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "/Users/sriramnarayanan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "/Users/sriramnarayanan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "/Users/sriramnarayanan/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/sriramnarayanan/.nuget/packages/microsoft.openapi/1.6.22/microsoft.openapi.1.6.22.nupkg.sha512",
+    "/Users/sriramnarayanan/.nuget/packages/swashbuckle.aspnetcore/7.0.0/swashbuckle.aspnetcore.7.0.0.nupkg.sha512",
+    "/Users/sriramnarayanan/.nuget/packages/swashbuckle.aspnetcore.swagger/7.0.0/swashbuckle.aspnetcore.swagger.7.0.0.nupkg.sha512",
+    "/Users/sriramnarayanan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/7.0.0/swashbuckle.aspnetcore.swaggergen.7.0.0.nupkg.sha512",
+    "/Users/sriramnarayanan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/7.0.0/swashbuckle.aspnetcore.swaggerui.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

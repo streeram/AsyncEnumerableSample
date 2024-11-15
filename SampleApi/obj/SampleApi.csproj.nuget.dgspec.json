@@ -1,30 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sriramnarayanan/Dev/API/SampleApi/SampleApi.csproj": {}
+    "/Users/sriramnarayanan/Dev/AsyncEnumerableSample/SampleApi/SampleApi.csproj": {}
   },
   "projects": {
-    "/Users/sriramnarayanan/Dev/API/SampleApi/SampleApi.csproj": {
+    "/Users/sriramnarayanan/Dev/AsyncEnumerableSample/SampleApi/SampleApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sriramnarayanan/Dev/API/SampleApi/SampleApi.csproj",
+        "projectUniqueName": "/Users/sriramnarayanan/Dev/AsyncEnumerableSample/SampleApi/SampleApi.csproj",
         "projectName": "SampleApi",
-        "projectPath": "/Users/sriramnarayanan/Dev/API/SampleApi/SampleApi.csproj",
+        "projectPath": "/Users/sriramnarayanan/Dev/AsyncEnumerableSample/SampleApi/SampleApi.csproj",
         "packagesPath": "/Users/sriramnarayanan/.nuget/packages/",
-        "outputPath": "/Users/sriramnarayanan/Dev/API/SampleApi/obj/",
+        "outputPath": "/Users/sriramnarayanan/Dev/AsyncEnumerableSample/SampleApi/obj/",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "/Users/sriramnarayanan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net9.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -32,15 +33,20 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
@@ -62,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

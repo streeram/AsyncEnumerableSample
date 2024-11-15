@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net9.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net9.0": []
   },
   "packageFolders": {
     "/Users/sriramnarayanan/.nuget/packages/": {}
@@ -13,24 +13,25 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sriramnarayanan/Dev/API/SampleClient/SampleClient/SampleClient.csproj",
+      "projectUniqueName": "/Users/sriramnarayanan/Dev/AsyncEnumerableSample/SampleClient/SampleClient/SampleClient.csproj",
       "projectName": "SampleClient",
-      "projectPath": "/Users/sriramnarayanan/Dev/API/SampleClient/SampleClient/SampleClient.csproj",
+      "projectPath": "/Users/sriramnarayanan/Dev/AsyncEnumerableSample/SampleClient/SampleClient/SampleClient.csproj",
       "packagesPath": "/Users/sriramnarayanan/.nuget/packages/",
-      "outputPath": "/Users/sriramnarayanan/Dev/API/SampleClient/SampleClient/obj/",
+      "outputPath": "/Users/sriramnarayanan/Dev/AsyncEnumerableSample/SampleClient/SampleClient/obj/",
       "projectStyle": "PackageReference",
+      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
         "/Users/sriramnarayanan/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net9.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "projectReferences": {}
         }
       },
@@ -38,11 +39,16 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net9.0": {
+        "targetAlias": "net9.0",
         "imports": [
           "net461",
           "net462",
@@ -59,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
